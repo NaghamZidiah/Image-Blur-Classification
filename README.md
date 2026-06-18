@@ -98,6 +98,3 @@ The Adam optimizer achieved the highest classification accuracy and produced the
 
 **Nagham Zidiah**
 
-Data Science & Artificial Intelligence Student
-
-Palestine Technical University – Kadoorie
